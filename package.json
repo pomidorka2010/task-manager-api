@@ -1,6 +1,6 @@
 {
   "name": "task-manager-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple yet powerful RESTful API for task management.",
   "main": "index.js",
   "scripts": {
